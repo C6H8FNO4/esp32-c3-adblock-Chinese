@@ -1,6 +1,6 @@
 # esp32-c3-adblock
 
-[日本語 README](README_JP.md)
+[简体中文 README](README_CN.md) | [日本語 README](README_JP.md)
 
 A **Pi-hole-style DNS ad-blocker** that runs on a **$2 ESP32-C3** — *no PSRAM required*.
 
